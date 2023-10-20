@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "770319919532",
+    "firebase_url": "https://gebze-eac69-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gebze-eac69",
+    "storage_bucket": "gebze-eac69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770319919532:android:2eb6a4e6f29401bb8df209",
+        "android_client_info": {
+          "package_name": "com.example.gebze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjlWnSmOPnxO7MmgWPA7xDym-87wqCJ2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
